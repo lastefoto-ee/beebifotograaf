@@ -2,7 +2,6 @@
 title: Newborn picture
 summary: twins, 19 days new
 tags:
-- all
 - wrapped 
 - twins
 date: "2020-07-30T00:00:00Z"

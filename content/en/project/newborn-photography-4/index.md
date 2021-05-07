@@ -2,7 +2,6 @@
 title: Newborn photography
 summary: twins, 7 days new
 tags:
-- all
 - beanbag
 - twins
 date: "2019-09-18T00:00:00Z"

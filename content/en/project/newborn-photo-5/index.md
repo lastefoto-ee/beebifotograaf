@@ -2,7 +2,6 @@
 title: Newborn photo
 summary: babyboy, 12 days new
 tags:
-- all
 - beanbag
 date: "2020-08-22T00:00:00Z"
 

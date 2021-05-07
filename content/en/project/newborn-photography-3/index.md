@@ -2,7 +2,6 @@
 title: Newborn photography
 summary: babygirl, 19 days new
 tags:
-- all
 - beanbag
 date: "2020-05-16T00:00:00Z"
 

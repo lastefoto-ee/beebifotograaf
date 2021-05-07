@@ -2,7 +2,6 @@
 title: Newborn session
 summary: twins, 10 days new
 tags:
-- all
 - beanbag
 - wrapped
 - twins

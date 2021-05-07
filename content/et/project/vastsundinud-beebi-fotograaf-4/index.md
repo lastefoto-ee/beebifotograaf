@@ -2,7 +2,6 @@
 title: Vastsündinud beebi fotosessioon
 summary: beebipoiss, 19 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2020-11-07T00:00:00Z"
 

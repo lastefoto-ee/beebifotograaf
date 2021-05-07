@@ -2,7 +2,6 @@
 title: Фотосессия новорожденных в студии
 summary: девочка, 12 дней
 tags:
-- все
 date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

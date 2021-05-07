@@ -2,7 +2,6 @@
 title: Newborn photosession
 summary: babyboy, 28 days new
 tags:
-- all
 - wrapped
 - props
 date: "2020-10-21T00:00:00Z"

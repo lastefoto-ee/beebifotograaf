@@ -2,7 +2,6 @@
 title: Newborn session
 summary: babygirl, 14 days new
 tags:
-- all
 - beanbag
 - wrapped
 date: "2021-02-13T00:00:00Z"

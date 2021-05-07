@@ -2,7 +2,6 @@
 title: Newborn session
 summary: twins, 10 days new
 tags:
-- all
 - twins
 date: "2020-08-01T00:00:00Z"
 

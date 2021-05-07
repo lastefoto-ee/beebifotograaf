@@ -2,7 +2,6 @@
 title: Vastsündinud beebi pildistamine
 summary: beebitüdruk, 7 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2020-07-30T00:00:00Z"
 

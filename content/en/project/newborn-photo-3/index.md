@@ -2,7 +2,6 @@
 title: Newborn photo
 summary: babyboy, 11 days new
 tags:
-- all
 - props
 - wrapped
 date: "2019-12-11T00:00:00Z"

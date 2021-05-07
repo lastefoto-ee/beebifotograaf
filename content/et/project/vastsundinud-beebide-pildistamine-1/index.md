@@ -2,7 +2,6 @@
 title: Vastsündinud beebi fotosessioon
 summary: beebitüdruk, 14 päeva uus
 tags:
-- kõik
 - beanbagil
 - mähitud
 date: "2021-02-13T00:00:00Z"

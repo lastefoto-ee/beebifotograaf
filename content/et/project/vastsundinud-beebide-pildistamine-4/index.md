@@ -2,7 +2,6 @@
 title: Vastsündinud beebide sessioon
 summary: kaksikud, 10 päeva uus
 tags:
-- kõik
 - kaksikud
 date: "2020-08-01T00:00:00Z"
 

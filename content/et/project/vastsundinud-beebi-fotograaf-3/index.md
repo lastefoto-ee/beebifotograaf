@@ -2,7 +2,6 @@
 title: Vastsündinud beebi fotosessioon
 summary: beebipoiss, 11 päeva uus
 tags:
-- kõik
 - rekvisiidis
 - mähitud
 date: "2019-12-11T00:00:00Z"

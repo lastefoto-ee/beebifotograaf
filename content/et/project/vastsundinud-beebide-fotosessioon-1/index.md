@@ -2,7 +2,6 @@
 title: Vastsündinud beebi pildistamine
 summary: beebitüdruk, 19 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2020-05-16T00:00:00Z"
 

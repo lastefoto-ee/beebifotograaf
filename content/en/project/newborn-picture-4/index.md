@@ -2,7 +2,6 @@
 title: Newborn picture
 summary: babygirl, 10 days new
 tags:
-- all
 - beanbag
 date: "2021-02-01T00:00:00Z"
 

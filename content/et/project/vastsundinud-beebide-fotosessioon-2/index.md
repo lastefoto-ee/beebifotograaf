@@ -2,7 +2,6 @@
 title: Vastsündinud beebide fotosessioon
 summary: kaksikud, 7 päeva uus
 tags:
-- kõik
 - beanbagil
 date: "2019-09-18T00:00:00Z"
 

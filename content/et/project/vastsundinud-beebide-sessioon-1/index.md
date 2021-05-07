@@ -2,7 +2,6 @@
 title: Vastsündinud beebi sessioon
 summary: beebitüdruk, 10 päeva uus
 tags:
-- kõik
 - beanbagil
 - mähitud
 date: "2021-02-01T00:00:00Z"

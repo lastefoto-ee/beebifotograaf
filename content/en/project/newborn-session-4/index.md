@@ -2,7 +2,6 @@
 title: Newborn session
 summary: babygirl, 14 days new
 tags:
-- all
 - props
 date: "2020-10-15T00:00:00Z"
 

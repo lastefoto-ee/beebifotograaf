@@ -2,7 +2,6 @@
 title: Vastsündinud beebi pildistamine
 summary: beebipoiss, 28 päeva uus
 tags:
-- kõik
 - mähitud
 - rekvisiidis
 date: "2020-10-21T00:00:00Z"
