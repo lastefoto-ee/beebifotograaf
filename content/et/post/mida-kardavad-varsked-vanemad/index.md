@@ -9,10 +9,10 @@ summary: Mida meeles pidada vastsündinu fotosessiooni tellimisel
 projects: []
 
 # Date published
-date: "2021-04-21T00:00:00Z"
+date: "2021-10-19T10:45:53+03:00"
 
 # Date updated
-lastmod: "22021-04-21T00:00:00Z"
+lastmod: "2021-10-19T10:45:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
