@@ -3,7 +3,7 @@ title: Vastsündinud beebi pildistamine
 summary: beebitüdruk, 12 päeva uus
 tags:
 - beanbagil
-date: ""2021-10-19T10:59:53+03:00"
+date: "2021-10-19T10:59:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
