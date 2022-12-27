@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pregnancy and newborn photographer in Tallinn, Estonia.
+bio: Newborn photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2022
   - course: Newborn Retreat
     institution: themilkyway.ca
     year: 2021
@@ -82,6 +85,6 @@ Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mother
 
 See you at the photo session!
 
-{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.lastefoto.ee/en/project/newborn/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.beebifotograaf.ee/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.beebifotograaf.ee/en/project/newborn/" cta_alt_new_tab="false" >}}
 
 _You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_

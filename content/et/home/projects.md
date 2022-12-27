@@ -25,16 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: kõik
-    tag: "*"
-  - name: beanbagil
-    tag: beanbagil
-  - name: mähitud 
-    tag: mähitud
-  - name: rekvisiidis
-    tag: rekvisiidis
-  - name: kaksikud
-    tag: kaksikud
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
