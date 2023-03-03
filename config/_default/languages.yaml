@@ -28,7 +28,7 @@ ru:
   contentDir: content/ru
   title: Фотограф новорожденных
   params:
-    description: Фотограф новорожденных в Таллинне - Виктория Ильин
+    description: Фотограф новорожденных и беременных в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
@@ -46,9 +46,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn photographer
+  title: Baby photographer
   params:
-    description: Newborn photographer in Tallinn - Viktoria Iljin
+    description: Baby and maternity photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
