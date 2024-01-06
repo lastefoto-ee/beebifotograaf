@@ -6,7 +6,7 @@ tags:
 - beebid
 - cake smash
 - fotoraamat
-date: "2023-06-10T06:57:53+03:00"
+date: "2024-01-06T06:57:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,7 +47,7 @@ Hind sisaldab:
 7. iga järgmise beebi fotosessiooni tulemuseks on 20 töödeldud digipilti. _Soovi korral pilte saab ise valida eeltöödeldud galeriist_;
 8. fotod eraldi pereliikmetega ja ühised perepildid igal fotosessioonil;
 9. iga foto individuaaltöötlust. Töötlemata pildid ei kuulu paketi hinna sisse, kuid neid on võimalik lisaks juurde osta;
-10. 20 paberpilti kõigi fotosessioonide tulemuste põhjal;
+10. 15 paberpilti kõigi fotosessioonide tulemuste põhjal;
 11. tort ja õhupallid (10 tk) “Cake smash” fotosessiooniks;
 12. nõustamine enne fotosessiooni ja juhendamine fotosessiooni ajal;
 13. töödeldud piltidest koostatud veebigaleriid, mida soovi korral saate ka jagada;
@@ -59,27 +59,33 @@ Hind sisaldab:
 
 _Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_
 
-{{< figure src="beebi-esimene-eluaasta-4.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
-{{< figure src="beebi-esimene-eluaasta-6.jpg" title="Beebi esimene eluaasta: fotoraamat 21 lehte, lõuend, paberpildid, USB-mälupilk" >}}
+{{< video library="true" src="beebi-esimene-eluaasta-5.mp4" controls="no" >}}
+{{< figure src="beebi-esimene-eluaasta-10.jpg" title="Beebi esimene eluaasta: fotoraamat 21 lehte, lõuend, paberpildid, USB-mälupilk" >}}
+{{< figure src="beebi-esimene-eluaasta-9.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
+
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
+
 {{< video library="true" src="beebi-esimene-eluaasta-3.mp4" controls="no" >}}
+{{< figure src="beebi-esimene-eluaasta-6.jpg" title="Beebi esimene eluaasta: fotoraamat 21 lehte, lõuend, paberpildid, USB-mälupilk" >}}
+{{< figure src="beebi-esimene-eluaasta-4.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-esimene-eluaasta-2.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
+{{< video library="true" src="beebi-esimene-eluaasta.mp4" controls="no" >}}
 {{< figure src="beebi-esimene-eluaasta-7.jpg" title="Beebi esimene eluaasta: fotoraamat 20 lehte, lõuend, paberpildid, USB-mälupilk" >}}
-{{< video library="true" src="beebi-esimene-eluaasta-4.mp4" controls="no" >}}
+{{< figure src="beebi-esimene-eluaasta-2.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-esimene-eluaasta-3.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
-{{< figure src="beebi-esimene-eluaasta-8.jpg" title="Beebi esimene eluaasta: fotoraamat 18 lehte, lõuend, paberpildid, USB-mälupilk" >}}
 {{< video library="true" src="beebi-esimene-eluaasta-2.mp4" controls="no" >}}
+{{< figure src="beebi-esimene-eluaasta-8.jpg" title="Beebi esimene eluaasta: fotoraamat 18 lehte, lõuend, paberpildid, USB-mälupilk" >}}
+{{< figure src="beebi-esimene-eluaasta-3.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-esimene-eluaasta.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
-{{< figure src="beebi-esimene-eluaasta-5.jpg" title="Beebi esimene eluaasta: fotoraamat 30 lehte, lõuend, paberpildid, USB-mälupilk" >}}
 {{< video library="true" src="esimene-eluaasta-fotoraamat.mp4" controls="no" >}}
+{{< figure src="beebi-esimene-eluaasta-5.jpg" title="Beebi esimene eluaasta: fotoraamat 30 lehte, lõuend, paberpildid, USB-mälupilk" >}}
+{{< figure src="beebi-esimene-eluaasta.jpg" title="Beebi esimene eluaasta: 4 fotosessiooni aasta jooksul" >}}
 
 {{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="/project/vastsundinud/" cta_alt_new_tab="false" >}}
 
